@@ -1,0 +1,159 @@
+[
+    {
+        "name": "St. Andreas",
+        "imageText": "St. Andreas am sonnigen Tag mit blauem Himmel",
+        "caption": "Ersatzkirche für den Kölner Dom nach dem Weltkrieg",
+        "storyText": "Die Basilika aus dem 12. Jahrhundert (mit einem Chor aus dem 15. Jahrhundert) steht, nur wenige Meter vom Dom entfernt, zwischen Komödienstraße und  Andreaskloster. Nach dem Zweiten Weltkrieg diente St. Andreas kurzzeitig als Ersatz für den stark beschädigten Dom.",
+        "id": 1001,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.954885005950928,
+            "latitude": 50.941890716552734
+        },
+        "imageName": "st-andreas"
+    },
+    {
+        "name": "St. Aposteln",
+        "imageText": "St. Aposteln, vom Neumarkt aus gesehen",
+        "caption": "Vergessene Krypta und Dreikonchenchor",
+        "storyText": "Direkt am geschäftigen Neumarkt liegt ein Hauptwerk der rheinischen Romanik: Die dreischiffige Basilika Sankt Aposteln mit ihrem beeindruckenden Drei-Konchen-Chor.",
+        "id": 1002,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.9449926,
+            "latitude": 50.9366058
+        },
+        "imageName": "st-aposteln"
+    },
+    {
+        "name": "St. Caecilien",
+        "imageText": "St. Caecilien am sonnigen Tag, Blick von oben",
+        "caption": "Museum Schnütgen für mitteralterliche Kunst",
+        "storyText": "St. Cäcilien, eine der ältesten Kirchen Kölns, beherbergt seit 1956 das städtische Museum Schnütgen für christliche Kunst des Mittelalters - hier verschmelzen Ausstellungsort und Ausstellungsstücke auf eine einzigartige Weise.",
+        "id": 1003,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.951513767242432,
+            "latitude": 50.93480682373047
+        },
+        "imageName": "st-caecilien"
+    },
+    {
+        "name": "St. Georg",
+        "imageText": "St. Georg im Sommer",
+        "caption": "Die Geschichte vom Drachentöter",
+        "storyText": "St. Georg ist eine der großen zwölf romanischen Kirchen Kölns. Sie steht an der Stelle einer unmittelbar vor den römischen Mauern gelegenen römischen Benefiziarier-Wache, von wo aus der Verkehr zwischen Bonn und dem Südtor der Kolonie überwacht wurde.",
+        "id": 1004,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": 6.945851802825928,
+            "latitude": 50.94325637817383
+        },
+        "imageName": "st-georg"
+    },
+    {
+        "name": "St. Gereon",
+        "imageText": "St. Gereon im Frühling",
+        "caption": "Nach der Legende die Kirche über einem Massengrab",
+        "storyText": "Inmitten des Friesenviertels liegt in grüner Lage der imposante Kuppelbau der Klosterkirche St. Gereon. Da erhebliche Reste eines Baus aus dem 4. Jahrhundert noch heute Teil des Bauwerks sind, gilt St. Gereon als eine der ältesten Kirchen Deutschlands.",
+        "id": 1005,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.945851802825928,
+            "latitude": 50.94325637817383
+        },
+        "imageName": "st-gereon"
+    },
+    {
+        "name": "St. Kunibert",
+        "imageText": "St. Kunibert am Rhein",
+        "caption": "Jüngste romanische Kirche Kölns",
+        "storyText": "St. Kunibert ist die jüngste der romanischen Kirchen Kölns - und für das Panorama des  Rheinufers zwischen Hohenzollernbrücke und Zoobrücke ähnlich prägnant wie es Groß St. Martin für das Panorama der Altstadt ist.",
+        "id": 1006,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.9625776,
+            "latitude": 50.946782
+        },
+        "imageName": "st-kunibert"
+    },
+    {
+        "name": "St. Maria im Kapitol",
+        "imageText": "St. Maria im Sommer, der Himmel ist leicht bewölkt",
+        "caption": "Eines der bedeutendsten Ergebnisse salischer Baukunst",
+        "storyText": "St. Maria im Kapitol ist die größte der romanischen Kirchen Kölns. Sie wurde erbaut auf den Fundamenten eines römischen Tempels aus der Zeit um 50 n. Chr..",
+        "id": 1007,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.9584808349609375,
+            "latitude": 50.93457794189453
+        },
+        "imageName": "st-maria-kapitol"
+    },
+    {
+        "name": "St. Maria in Lyskirchen",
+        "imageText": "St. Maria am sonnigen Tag mit blauem Himmel",
+        "caption": "Die Schifferkirche",
+        "storyText": "St. Maria in Lyskirchen ist kleinste der \"großen\" Kölner romanischen Kirchen. Sehenswert ist sie vor allem wegen der original erhaltenen Deckenfresken aus der Mitte des 13. Jahrhunderts im Mittelschiff.",
+        "id": 1008,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.962606906890869,
+            "latitude": 50.9329833984375
+        },
+        "imageName": "st-maria-lyskirchen"
+    },
+    {
+        "name": "Groß St. Martin",
+        "imageText": "Groß St. Martin abends, beleuchtet",
+        "caption": "Basilika auf fast 2000 Jahre alten Grundmauern",
+        "storyText": "Die romanische Kirche am Rheinufer prägte schon die Skyline Kölns, als mit den Arbeiten am Dom nicht einmal begonnen worden war. Die Fundamente rühren aus der Zeit wenige Jahre nach Christus.",
+        "id": 1009,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.961687088012695,
+            "latitude": 50.93855667114258
+        },
+        "imageName": "st-martin"
+    },
+    {
+        "name": "St. Pantaleon",
+        "imageText": "St. Pantaleon am sonnigen Tag mit blauem Himmel",
+        "caption": "Die Grabstätte von Kaiserin Theophanu",
+        "storyText": "St. Pantaleon gehört zu den ältesten Kirchen Kölns. Die ottonische Saalkirche mit Westwerk wurde im 12. Jahrhundert zu einer dreischiffigen Basilika erweitert. In ihr befinden sich die Grabstätten Erzbischof Brunos und der Kaiserin Theophanu.",
+        "id": 1010,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.947969436645508,
+            "latitude": 50.92853546142578
+        },
+        "imageName": "st-pantaleon"
+    },
+    {
+        "name": "St. Severin",
+        "imageText": "der höhe Turm von St. Severin",
+        "caption": "Die zweithöchste romanische Kirche Kölns",
+        "storyText": "St.Severin ist die zweithöchste der romanischen Kirchen Kölns. Sie ist dem dritten Bischof von Köln, dem Heiligen Severin geweiht.",
+        "id": 1011,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.9597539,
+            "latitude": 50.9235204
+        },
+        "imageName": "st-severin"
+    },
+    {
+        "name": "St. Ursula",
+        "imageText": "St. Ursula am sonnigen Tag",
+        "caption": "Goldene Kammer für ursulanische Jungfrauen",
+        "storyText": "Die Damenstiftskirche St. Ursula entstand 1135 dort, wo seit dem 4. Jahrhundert auf einem römischen Gräberfeld christliche Märtyrerinnen verehrt wurden. Die Legende der Heiligen Ursula findet sich an allen Ecken und Enden dieser romanischen Kirche wieder, zum Beispiel in der Goldenen Kammer.",
+        "id": 1012,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 6.9543226,
+            "latitude": 50.9457089
+        },
+        "imageName": "st-ursula"
+    }
+]
